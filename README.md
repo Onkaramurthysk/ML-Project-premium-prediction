@@ -71,7 +71,7 @@ The Streamlit app provides an interactive interface for users to:
 * Predict healthcare premiums instantly.
   
 ### How to Access
-* [[Deployed Streamlit App Link](https://onkaramurthysk-ml-project-premium-prediction.streamlit.app/)] (if applicable)
+* [[Deployed Streamlit App Link](https://onkaramurthysk-ml-project-premium-prediction.streamlit.app/)] 
 * Run locally using the command
    streamlit run app.py
 
@@ -83,7 +83,7 @@ Visualized key factors influencing premiums: age, region, BMI, and genetic risks
 ## How to Run the Project
 
 1) Clone the repository:
-git clone https://github.com/your-username/healthcare-premium-prediction](https://github.com/Onkaramurthysk/ML-Project-premium-prediction.git
+git clone (https://github.com/Onkaramurthysk/ML-Project-premium-prediction)
 cd healthcare-premium-prediction
 2) Install the required dependencies:
 pip install -r requirements.txt
