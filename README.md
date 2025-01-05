@@ -96,6 +96,4 @@ streamlit run app.py
 * Enhance the dataset with real-world data.
 * Integrate additional features like geospatial analysis.
 
-## Contributors
 
-[Onkaramurthy S K] - Data Scientist | Developer
