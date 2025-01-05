@@ -83,8 +83,9 @@ Visualized key factors influencing premiums: age, region, BMI, and genetic risks
 ## How to Run the Project
 
 1) Clone the repository:
-git clone (https://github.com/Onkaramurthysk/ML-Project-premium-prediction)
-cd healthcare-premium-prediction
+* git clone https://github.com/Onkaramurthysk/ML-Project-premium-prediction.git
+* cd ML-Project-premium-prediction
+
 2) Install the required dependencies:
 pip install -r requirements.txt
 3) Run the Streamlit app:
